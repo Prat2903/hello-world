@@ -1,3 +1,3 @@
 # hello-world
 sample repository
-hi guys. i like to play football
+Hello. I like to play football
